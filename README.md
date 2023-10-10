@@ -48,8 +48,8 @@ Use Fork().
 Stop the program.
 ## PROGRAM:
 ```
-Developed by: Dinesh Kumar M
-Register no: 212221220011
+Developed by: Kumaravel R
+Register no: 212221220029
 
 #include<sys/stat.h> 
 #include<stdio.h> 
